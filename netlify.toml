@@ -1,0 +1,8 @@
+[build]
+  command = "next build"
+  publish = "out"
+
+[[redirects]]
+  from = "/*"
+  to = "/404.html"
+  status = 404
