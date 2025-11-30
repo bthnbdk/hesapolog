@@ -1,0 +1,10 @@
+# See https://www.robotstxt.org/robotstxt.html for documentation on how to use the robots.txt file
+#
+# To control crawling of pages with a hash (#) in the URL (like this app uses),
+# the "noindex" meta tag must be used in the HTML of the specific pages.
+# This file handles general rules.
+
+User-agent: *
+Disallow: /api/
+
+Sitemap: https://hesapolog.com/sitemap.xml
