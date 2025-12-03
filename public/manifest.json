@@ -1,0 +1,10 @@
+{
+    "name": "Hesapolog",
+    "short_name": "Hesapolog",
+    "description": "Tüm hesaplama araçları için kapsamlı web uygulaması",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#F3E8DF",
+    "theme_color": "#452829",
+    "orientation": "portrait-primary"
+}
